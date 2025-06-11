@@ -4,6 +4,6 @@
 bridge - 192.168.0.0/24
 
 # Schedule 
-06:00 - dnf5-automatic.timer
+06:00-07:00 - dnf5-automatic.timer
 
 # Changes to host
